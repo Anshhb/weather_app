@@ -34,11 +34,11 @@ A Flutter-based weather application that displays current weather information in
     flutter run
 
 
-Usage
-1.Ensure you have Flutter installed and set up on your machine.
-2.Obtain an API key from OpenWeatherMap.
-3.Replace the API_KEY in the code with your actual API key.
-4.Run the app on an emulator or a physical device.
+### Usage
+1. Ensure you have Flutter installed and set up on your machine.
+2. Obtain an API key from OpenWeatherMap.
+3. Replace the API_KEY in the code with your actual API key.
+4. Run the app on an emulator or a physical device.
 
 
-![Main Screen](appScreenshots\Mainscreen.png)
+![Main Screen](appScreenshots/Mainscreen.png)
