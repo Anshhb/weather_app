@@ -8,10 +8,6 @@ A Flutter-based weather application that displays current weather information in
 - Displays temperature, weather condition, and additional details.
 - User-friendly interface with weather icons and descriptive text.
 
-## Screenshots
-
-![Main Screen](screenshots/main_screen.png)
-![Additional Information](screenshots/additional_info.png)
 
 ## Getting Started
 
